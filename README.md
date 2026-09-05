@@ -43,6 +43,7 @@ A responsive e-commerce web application built with React, Vite, and Tailwind CSS
 **Tech:** React.js · Vite · Tailwind CSS · React Router · Context API · REST API
 
 🔗 [Live Demo](https://shoply-tawny.vercel.app/)
+
 🔗 [View Repository](https://github.com/SelvanaNassar/Shoply)
 
 ### 📚 Learnify Courses
@@ -61,6 +62,7 @@ A responsive React application for browsing and exploring online courses.
 **Tech:** React.js · JavaScript · CSS
 
 🔗 [Live Demo](https://learnify-react.vercel.app/)
+
 🔗 [View Repository](https://github.com/SelvanaNassar/Learnify-react)
 
 ---
@@ -76,4 +78,5 @@ A responsive React application for browsing and exploring online courses.
 ## 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/selvana-nassar-a83538216)
+
 [Email](mailto:selvananassar@gmail.com)
